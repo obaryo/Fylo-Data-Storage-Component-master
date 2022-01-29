@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [SOLUTION](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [SOLUTION](https://www.frontendmentor.io/solutions/fylo-data-storage-components-html-css-flexbox-mobile-first-U6lplR8_7)
+- Live Site URL: [LIVE SITE](https://fylo-data-storage-component-master-obaryo.vercel.app/)
 
 ## My process
 
